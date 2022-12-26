@@ -1,3 +1,17 @@
+# Bank Project
+
+This is a bank project built using PHP CodeIgniter and Ajax. It allows users to create an account, view their account details, make transactions, and view their transaction history without having to refresh the page.
+
+Features include:
+
+    MVC architecture using PHP CodeIgniter
+    Dynamic page updates using Ajax
+    MySQL database for storing user and transaction data
+
+The use of Ajax allows for a seamless and interactive user experience, making it easy to perform actions and view updates in real-time.
+
+To run this app locally, clone the repository and set up a MySQL database. Then, update the database configuration in the application/config/database.php file. Finally, run the app using a local development server like XAMPP or WAMP.
+
 ###################
 What is CodeIgniter
 ###################
